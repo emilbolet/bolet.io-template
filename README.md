@@ -1,0 +1,1 @@
+bolet.io-template
